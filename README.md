@@ -34,5 +34,3 @@ This project demonstrates DOM manipulation, event handling, arithmetic operation
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-## Project Structure
