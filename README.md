@@ -1,10 +1,13 @@
+# Calculator Web Application
+
 ## Live Demo
 https://aravindkalva.github.io/SCT_WD_2/
 
-# Minimal Calculator Web Application
+A functional and responsive calculator web application built using HTML, CSS, and JavaScript.
 
-A stylish and responsive calculator web application built using HTML, CSS, and JavaScript.  
 This project demonstrates DOM manipulation, event handling, arithmetic operations, error handling, and keyboard input support.
+
+---
 
 ## Features
 
@@ -16,21 +19,84 @@ This project demonstrates DOM manipulation, event handling, arithmetic operation
   - Percentage (%)
 
 -  Interactive calculator buttons
--  DOM manipulation using JavaScript
 -  Equal button functionality
--  Input validation and error handling
--  Keyboard support
-  - Numbers (0-9)
-  - Operators (+, -, *, /, %)
-  - Enter → Calculate result
-  - Backspace → Delete input
-  - Escape → Clear display
+-  Clear and delete operations
+-  Keyboard input support
+-  Error handling for invalid calculations
+-  Responsive and modern UI design
 
--  Minimalistic Apple-inspired UI design
--  Responsive design for desktop and mobile devices
+---
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
+
+---
+
+## Project Structure
+
+SCT_WD_2/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
+---
+
+## How to Run
+
+1. Clone this repository:
+git clone https://github.com/aravindkalva/SCT_WD_2.git
+
+2. Open the project folder.
+
+3. Open:
+index.html
+
+in any modern web browser.
+
+---
+
+## Functionality
+
+### Calculator Operations
+
+Users can perform:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage calculations
+
+### Keyboard Support
+
+The calculator supports:
+
+- Number keys
+- Arithmetic operators
+- Enter key for calculation
+- Backspace for deleting input
+- Escape key for clearing display
+
+### Error Handling
+
+The application handles:
+
+- Invalid inputs
+- Division by zero
+- Incorrect expressions
+
+---
+
+## Author
+
+Aravind Kalva
+
+---
+
+## License
+
+This project is created for educational and learning purposes.
